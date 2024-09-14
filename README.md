@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rasaTizdast
-- 👀 I’m interested in webDesign
-- 🌱 I’m currently a JS Developer, and I'm looking forward to become a react developer in the near future.
+- 👀 I’m interested in web design
+- 🌱 I’m currently a React developer, and I'm looking forward to becoming a Next.JS in the near future.
 
 <!---
 rasaTizdast/rasaTizdast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
