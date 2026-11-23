@@ -18,8 +18,6 @@ A live, Persian-first platform for discovering security and professional imaging
 
 [Live site](https://farabak.net) · [Source code](https://github.com/rasaTizdast/next-farabak.net-app)
 
-[![Farabak live homepage](https://raw.githubusercontent.com/rasaTizdast/next-farabak.net-app/main/output/playwright/farabak-live-homepage.png)](https://farabak.net)
-
 ### [Sefro Clinic](https://github.com/rasaTizdast/sefro-clinic-pwa)
 
 A progressive web app (PWA) for clinic management, covering patient records, appointments, services, accounting, inventory, and reporting. It supports Persian RTL use and offline workflows.
